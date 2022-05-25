@@ -12,14 +12,7 @@ $con = mysqli_connect('localhost','root','','error') or die ('unable to connect'
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-    <style>
-        body{
-            text-align: center;
-        }
-        .field{
-            margin-bottom: 20px;
-        }
-    </style>
+   
 </head>
 <body>
     <h1>welcome  to our page </h1>
